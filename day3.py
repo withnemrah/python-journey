@@ -1,0 +1,8 @@
+num1=input("Enter first number:")
+num2=input("Enter second number:")
+num1=int(num1)
+num2=int(num2)
+print(f"sum is {num1+num2}")
+print(f"difference is {num1-num2}")
+print(f"product is{num1*num2}")
+print(f"divison is {num1/num2}")
